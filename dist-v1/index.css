@@ -1,0 +1,13 @@
+html {
+    --info: 'I am an element-based style from component-with-global-styles.css';
+}
+
+
+._nested-thing_1gl10_1 {
+    --info: 'I am a class-based style from nested-with-local-styles.css';
+}
+
+
+._thing_pv3jd_1 {
+    --info: 'I am a class-based style from component-with-local-styles.css';
+}
