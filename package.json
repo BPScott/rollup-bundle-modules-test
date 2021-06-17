@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "postcss": "^7.0.32",
+    "postcss": "^7.0.36",
     "postcss-modules": "^3.1.0",
     "rollup1": "npm:rollup@^1",
     "rollup2": "npm:rollup@^2"
